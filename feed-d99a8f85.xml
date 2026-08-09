@@ -9,21 +9,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
-      <title>Obrácené pořadí: exekuce jako první filtr</title>
-      <description>Návrh obrátit rozhodovací pořadí projektu: nejdřív plnitelnost a náklady, teprve pak výnos. Čtyři protiargumenty, kapacita strategie a předregistrovaný experiment s KILL kritériem.</description>
-      <pubDate>Sun, 09 Aug 2026 07:13:55 +0000</pubDate>
-      <guid isPermaLink="false">obracene-poradi</guid>
-      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-obracene-poradi/obracene-poradi.mp3" length="6806396" type="audio/mpeg"/>
-      <itunes:duration>00:18:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>Měříme špatně: co ukázal srpen 2026</title>
       <description>Monolog o měsíci oprav měřidel v trading projektu: PBO, škodlivé per-coin ladění, podhodnocené náklady, fail-open gaty, chybějící evidence, síla vzorku. Plus šest otevřených otázek.</description>
-      <pubDate>Sun, 09 Aug 2026 07:05:05 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 12:37:00 +0000</pubDate>
       <guid isPermaLink="false">merime-spatne</guid>
-      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-merime-spatne/merime-spatne.mp3" length="7230188" type="audio/mpeg"/>
-      <itunes:duration>00:20:05</itunes:duration>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-merime-spatne/merime-spatne.mp3" length="6949964" type="audio/mpeg"/>
+      <itunes:duration>00:19:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
