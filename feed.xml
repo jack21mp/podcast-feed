@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Research na míru</title>
+    <link>https://jack21mp.github.io/podcast-feed</link>
+    <description>Deep research na zadaná témata, nadabováno pro poslech.</description>
+    <language>cs</language>
+    <itunes:author>Michal</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Koně: tajemství zvířete, které spí ve stoje</title>
+      <description>Proč koně spí ve stoje, proč je kopyto obří nehet a jak se k opravdovému koni přiblížit. Pro zvědavé sedmileté.</description>
+      <pubDate>Sat, 08 Aug 2026 21:17:33 +0000</pubDate>
+      <guid isPermaLink="false">kone</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-kone/kone.mp3" length="3520172" type="audio/mpeg"/>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
