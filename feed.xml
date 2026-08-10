@@ -8,14 +8,6 @@
     <itunes:author>Michal</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
-    <item>
-      <title>Koně podruhé: jak se učí a proč se jezdí bez sedla</title>
-      <description>Jak se kůň učí, proč nechápe trest, čeho se doopravdy bojí, kdo vede stádo a proč se jezdí bez sedla. Pokračování pro zvědavé sedmileté.</description>
-      <pubDate>Sun, 09 Aug 2026 17:42:29 +0000</pubDate>
-      <guid isPermaLink="false">kone-2-uceni</guid>
-      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-kone-2-uceni/kone-2-uceni.mp3" length="3546092" type="audio/mpeg"/>
-      <itunes:duration>00:09:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
   </channel>
 </rss>
