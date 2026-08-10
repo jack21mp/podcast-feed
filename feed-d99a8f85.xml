@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Ranní přehled TEST – 10. 8. 2026</title>
+      <description>Testovací běh ranní automatizace.</description>
+      <pubDate>Mon, 10 Aug 2026 08:03:48 +0000</pubDate>
+      <guid isPermaLink="false">rano-test-2026-08-10</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-rano-test-2026-08-10/rano-test-2026-08-10.mp3" length="2745452" type="audio/mpeg"/>
+      <itunes:duration>00:07:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nelikvidní tickery: co jsme si nalhali</title>
       <description>Proč naivní hledání edge na málo likvidních nástrojích u nás zatím systematicky selhalo - a co se za tím skrývalo místo edge.</description>
       <pubDate>Mon, 10 Aug 2026 06:15:19 +0000</pubDate>
