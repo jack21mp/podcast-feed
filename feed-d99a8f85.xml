@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Test 2 — pomalejší tempo (19,2 zn/s)</title>
+      <description>Stejný text jako Test 1, ale o 20 % pomaleji. Porovnej tempo.</description>
+      <pubDate>Fri, 14 Aug 2026 10:32:02 +0000</pubDate>
+      <guid isPermaLink="false">test-pomale-tempo</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-test-pomale-tempo/test-pomale-tempo.mp3" length="1216028" type="audio/mpeg"/>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Test — pomalejší tempo + přepisy</title>
       <description>Testovací díl: zpomaleno o 20 %, shrnutí z přepisů napříč celým videem.</description>
       <pubDate>Fri, 14 Aug 2026 10:23:53 +0000</pubDate>
