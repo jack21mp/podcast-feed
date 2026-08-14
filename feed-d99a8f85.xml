@@ -9,12 +9,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
-      <title>Test — podcast z přepisů videí</title>
-      <description>Testovací díl: shrnutí YouTube videí z automatických titulků, ne jen z názvů.</description>
-      <pubDate>Fri, 14 Aug 2026 10:10:21 +0000</pubDate>
+      <title>Test — pomalejší tempo + přepisy</title>
+      <description>Testovací díl: zpomaleno o 20 %, shrnutí z přepisů napříč celým videem.</description>
+      <pubDate>Fri, 14 Aug 2026 10:23:53 +0000</pubDate>
       <guid isPermaLink="false">test-yt-prepisy</guid>
-      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-test-yt-prepisy/test-yt-prepisy.mp3" length="1018028" type="audio/mpeg"/>
-      <itunes:duration>00:02:50</itunes:duration>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-test-yt-prepisy/test-yt-prepisy.mp3" length="1194716" type="audio/mpeg"/>
+      <itunes:duration>00:03:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
