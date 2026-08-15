@@ -8,6 +8,14 @@
     <itunes:author>Michal</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
-
+    <item>
+      <title>Trzni perlicky: co se na titulky nedostane</title>
+      <description>Pet minut zabavnych detaily ze sveta trhu: akcie versus HDP, deset jmen a objem, pasivni nakup bez rozhodnuti, soukromy AI trh.</description>
+      <pubDate>Sat, 15 Aug 2026 11:01:01 +0000</pubDate>
+      <guid isPermaLink="false">trzni-perlicky-2026-08-15</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-trzni-perlicky-2026-08-15/trzni-perlicky-2026-08-15.mp3" length="2036160" type="audio/mpeg"/>
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
