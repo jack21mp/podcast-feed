@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>YouTube těžba — co z toho zbývá</title>
+      <description>Srozumitelné shrnutí: co YouTube harvest otestoval, proč 0 strategií na HL, co už běží jako forward test a co dál (Amazon, skluz).</description>
+      <pubDate>Sat, 15 Aug 2026 08:51:54 +0000</pubDate>
+      <guid isPermaLink="false">yt-harvest-shrnuti-2026-08-15</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-yt-harvest-shrnuti-2026-08-15/yt-harvest-shrnuti-2026-08-15.mp3" length="1996416" type="audio/mpeg"/>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Týdenní přehled – 15. srpna 2026</title>
       <description>Týdenní souhrn: YouTube kanály, svět, AI, trhy, čísla portfolia, zdraví a priority na příští týden.</description>
       <pubDate>Sat, 15 Aug 2026 04:51:58 +0000</pubDate>
