@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Týdenní přehled – 15. srpna 2026</title>
+      <description>Týdenní souhrn: YouTube kanály, svět, AI, trhy, čísla portfolia, zdraví a priority na příští týden.</description>
+      <pubDate>Sat, 15 Aug 2026 04:51:58 +0000</pubDate>
+      <guid isPermaLink="false">tydenni-2026-08-15</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-tydenni-2026-08-15/tydenni-2026-08-15.mp3" length="6505200" type="audio/mpeg"/>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ranní přehled – 15. srpna</title>
       <description>Novinky z YouTube kanálů, svět, trhy, portfolio a úkoly na dnešek.</description>
       <pubDate>Sat, 15 Aug 2026 04:21:42 +0000</pubDate>
