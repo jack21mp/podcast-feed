@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Ranní přehled – 15. srpna</title>
+      <description>Novinky z YouTube kanálů, svět, trhy, portfolio a úkoly na dnešek.</description>
+      <pubDate>Sat, 15 Aug 2026 04:21:42 +0000</pubDate>
+      <guid isPermaLink="false">rano-2026-08-15</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-rano-2026-08-15/rano-2026-08-15.mp3" length="2903904" type="audio/mpeg"/>
+      <itunes:duration>00:08:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Test 3 — devět videí, shrnutí z celých přepisů</title>
       <description>Delší testovací díl: 9 videí, shrnutí z kompletních přepisů, tempo 19,2 zn/s.</description>
       <pubDate>Fri, 14 Aug 2026 11:00:14 +0000</pubDate>
