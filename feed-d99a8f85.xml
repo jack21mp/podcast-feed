@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Týdenní přehled TEST – nová struktura, 19. 8. 2026</title>
+      <description>Testovací běh nové týdenní šablony: YouTube kanály, svět, AI, trhy, čísla portfolia, kritické zhodnocení projektu, zanedbaná oblast, úkoly, zdraví a kalendář.</description>
+      <pubDate>Wed, 19 Aug 2026 08:00:58 +0000</pubDate>
+      <guid isPermaLink="false">tydenni-test-2026-08-19</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-tydenni-test-2026-08-19/tydenni-test-2026-08-19.mp3" length="3904220" type="audio/mpeg"/>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ranní přehled – 16. 8. 2026</title>
       <description>Novinky z YouTube kanálů, svět, trhy, portfolio a úkoly na dnešek.</description>
       <pubDate>Sun, 16 Aug 2026 04:12:03 +0000</pubDate>
