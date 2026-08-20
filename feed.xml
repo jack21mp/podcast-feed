@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Mentální hra: co si obchodování bere z pokeru</title>
+      <description>Konkrétní techniky z knih o mentální hře - Tendlerova mapa tiltu, Kellyho kritérium a bankroll, Duke o posuzování podle výsledku, simulace špatných sérií, strukturovaný deník a áčko/béčko/céčko inventář vlastních chyb.</description>
+      <pubDate>Thu, 20 Aug 2026 11:46:43 +0000</pubDate>
+      <guid isPermaLink="false">mentalni-hra-trading-poker</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-mentalni-hra-trading-poker/mentalni-hra-trading-poker.mp3" length="2853020" type="audio/mpeg"/>
+      <itunes:duration>00:07:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Trzni perlicky: co se na titulky nedostane</title>
       <description>Pet minut zabavnych detaily ze sveta trhu: akcie versus HDP, deset jmen a objem, pasivni nakup bez rozhodnuti, soukromy AI trh.</description>
       <pubDate>Sat, 15 Aug 2026 11:01:01 +0000</pubDate>
