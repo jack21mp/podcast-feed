@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Denní SFP setup — forward test 26. 8. 2026</title>
+      <description>Denní swingová falš: vysoký dolarový objem, swing 30/30, práh šíře 2.18, cíl 2R, long-only, scan 07:00. Proč ne profilový cíl, ne short, ne týdenní kniha.</description>
+      <pubDate>Wed, 26 Aug 2026 17:24:43 +0000</pubDate>
+      <guid isPermaLink="false">sfp-daily-ft-setup-2026-08-26</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-sfp-daily-ft-setup-2026-08-26/sfp-daily-ft-setup-2026-08-26.mp3" length="1171100" type="audio/mpeg"/>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Týdenní přehled TEST – nová struktura, 19. 8. 2026</title>
       <description>Testovací běh nové týdenní šablony: YouTube kanály, svět, AI, trhy, čísla portfolia, kritické zhodnocení projektu, zanedbaná oblast, úkoly, zdraví a kalendář.</description>
       <pubDate>Wed, 19 Aug 2026 08:00:58 +0000</pubDate>
