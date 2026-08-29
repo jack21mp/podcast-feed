@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
+      <title>Výběr rad z YouTube — nejlepší z tisíců videí</title>
+      <description>Kurátorský výběr ~40 % nejlepších praktických rad ze tří YouTube archivů (Chlíbek/Dago, trading kanály, Svobodný přístav). Filtr: Gemini Pro.</description>
+      <pubDate>Sat, 29 Aug 2026 07:09:56 +0000</pubDate>
+      <guid isPermaLink="false">yt-rady-vyber-2026-08-28</guid>
+      <enclosure url="https://github.com/jack21mp/podcast-feed/releases/download/ep-yt-rady-vyber-2026-08-28/yt-rady-vyber-2026-08-28.mp3" length="2182608" type="audio/mpeg"/>
+      <itunes:duration>00:06:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mentální hra: co si obchodování bere z pokeru</title>
       <description>Konkrétní techniky z knih o mentální hře - Tendlerova mapa tiltu, Kellyho kritérium a bankroll, Duke o posuzování podle výsledku, simulace špatných sérií, strukturovaný deník a áčko/béčko/céčko inventář vlastních chyb.</description>
       <pubDate>Thu, 20 Aug 2026 11:46:43 +0000</pubDate>
